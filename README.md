@@ -42,6 +42,7 @@ Then ask, for example: *"Write a TRP3 profile for my Horde Skyborne shaman on Fo
 │   └── profile-craft.md         how to write a profile people want to interact with
 └── evals/                       test cases (claude plugin eval layout)
 docs/plans/                      design plan
+samples/                         worked examples of the skill's output (profiles, voice guides)
 ```
 
 ## Accuracy
