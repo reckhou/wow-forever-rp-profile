@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: polish-retail-dwarf-shaman
+expected_outcome: |
+  A polished Forever-ready TRP3 profile for Thorgrim Stoneheart that keeps his beard, Old God whispers and Wildhammer ties, removes Cataclysm-era references, god-moding and the leaked secret from the description, fixes the over-long Currently, and lists the changes made.
+context:
+  scaffold_script: place-files.sh

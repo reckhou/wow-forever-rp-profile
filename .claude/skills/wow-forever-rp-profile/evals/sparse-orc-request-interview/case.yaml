@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: sparse-orc-request-interview
+expected_outcome: |
+  A short reply asking 3-5 clarifying questions in one message (class, concept and so on, with examples) and offering to invent details, without writing a full profile yet.
+
