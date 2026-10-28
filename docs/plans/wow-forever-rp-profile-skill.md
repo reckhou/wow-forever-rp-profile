@@ -38,6 +38,7 @@ A Claude Code skill that writes lore-friendly RP character profiles for **World 
 ## Status
 
 - **Iteration 1 (2026-10-28):** with the skill 100 % of assertions passed; without it, 89 %. All three baseline failures were Currently/OOC text over TRP3's 140-character cut-off. Runs with the skill were about 190 s faster. Must fix next: add Forever's Forsaken paladin hub (Bandarion Keep, Danitha Morr) and Forever's in-game naming rules to the references; tighten loose assertions (question count, consent handling, secret placement).
+- **Fixes after iteration 1 (2026-10-28):** added Bandarion Keep / Danitha Morr / the Tarnished to `forever-lore.md`; added Forever's in-game naming rules to `profile-craft.md` section 6, with an in-game name line and checks in `SKILL.md`. The paladin case's assertion 07 now requires Bandarion Keep, and the new assertion 08 checks the in-game name. Still to do: tighten the question-count, consent and secret-placement assertions.
 
 ## Open questions / later ideas
 

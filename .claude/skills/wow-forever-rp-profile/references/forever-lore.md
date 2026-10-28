@@ -24,7 +24,7 @@ Compiled 27 October 2026, a week before Forever's launch on 4 November 2026. For
 - It has **its own continuity**, separate from retail. Holly Longdale (executive producer) says that "some stories from the 'known' vanilla narrative simply won't happen the same way here." New characters and storylines fill the original game's unfinished threads.
 - Design pillars that suit RP: "The world is the main character", "Not every story has to be about saving the world", "Azeroth remains dangerous". Grounded, ordinary-scale characters fit the setting best.
 - Rulesets: Normal, PvP (player versus player), RP, and RP-PvP, with Hardcore to come. There is one "mega-realm" per ruleset per region, so the RP community is concentrated.
-- "First and last names" are listed as a Forever feature. The exact naming rules weren't published at the time of writing.
+- Every in-game character has a **first and a last name**, and the full name must be unique across the region. The rules, and how to suggest names that pass them, are in `profile-craft.md` section 6.
 
 **What this means for profiles:** treat the original game's world as the default backdrop, but don't present a specific vanilla quest outcome as settled fact. Forever may tell that story differently. Anything set after 25 ADP hasn't happened.
 
@@ -74,7 +74,24 @@ Key years (Warcraft Wiki timeline):
 - In the original game, paladins were Alliance-only and shamans Horde-only. In Forever both factions have both, through the Forsaken paladin and the dwarf shaman.
 - Skyborne can't be priests. Alliance Skyborne can't be shamans, and Horde Skyborne can't be mages.
 - Races added in The Burning Crusade or later (blood elves, draenei, worgen, goblins, pandaren, allied races) **aren't playable**.
-- **The six new pairs are new to the lore as well as to the game.** Only the Forsaken paladin has a documented story so far: the *Forsaken Kingdom* campaign introduced it. For the other five, the sources give no official explanation yet. Write the character's own reason for their path (a dwarf who heard the earth speak in the Wetlands excavations, an orc taught by a renegade Kirin Tor tutor) and present it as that one character's story. Don't invent a new official order or claim it as canon. Suggest the player check their class trainer's quest text in-game.
+- **The six new pairs are new to the lore as well as to the game.**
+  - **Forsaken paladins** have an official home in Forever: Bandarion Keep (see below). Always offer it to a Forsaken paladin player.
+  - **The other five** (dwarf shaman, orc mage, human hunter, troll warlock, gnome priest) had no in-world explanation in the sources used here. Write the character's own reason for their path (a dwarf who heard the earth speak at the Wetlands excavations, an orc taught by a renegade Kirin Tor tutor) and present it as that one character's story.
+  - For any of them, don't invent an official order. Don't claim that none exists either: say the sources here don't cover it, and suggest checking the class trainer's quests in-game.
+
+### Forsaken paladins: Bandarion Keep
+
+Forever-only lore, from Warcraft Wiki's pages on the keep and its quests.
+
+- **Garek Bandarion** was a central character in *Forsaken Kingdom*. He was a protégé of Landen, captain of the Lordaeron City Guard, and rose as a Forsaken warrior. An NPC says he "might just have been the first Forsaken to rediscover how to wield the light as a paladin". He died in the fighting in the Undercity, and the keep is named after him.
+- **Bandarion Keep** stands on Northface Rock in western Tirisfal Glades, near the Whispering Forest. It was formerly Dawn's Watch, a Lordaeron hilltop outpost. The **Argent Dawn** once garrisoned it under Lord Maxwell Tyrosus, who was wary of the Forsaken but worked with them against the Scarlet Crusade and the Scourge. The Dawn later withdrew to the Eastern Plaguelands, and Forsaken paladins took the keep over. In 25 ADP it is short of supplies and beset by Vile Fin murlocs, Scarlet skirmishers, mindless Scourge thralls and paladins who have turned on the Forsaken.
+- **Danitha Morr** leads it. She calls it "our fledgling order", which "must find our identity amongst our kind". The wiki links it to the name **Tyr's Watch**, but says it's unclear whether that names the order or is an old name for the keep. Other NPCs include Hilda the Breaker (paladin trainer), Jorin Croge (supplies) and Breton Samuels.
+- **The Argent Dawn's offer.** Leonid Barthalomew the Revered invited the keep's paladins to join the Dawn: "your connection to the light would be an asset". Danitha refused: "the Forsaken are still the people we swore to protect … Our place is here". She also rejects the Dawn's view that the Forsaken "condition" is "something to be cured".
+- **Mistrust from their own people.** Forsaken paladins "are mistrusted by our people who remember well the persecution inflicted by the living in the name of the light". Danitha expects full acceptance by the Forsaken and the Horde to take a long time.
+- **The Tarnished** are Forsaken paladins who "carried forward their prejudices from life, and continue to visit violence upon their fellow Forsaken". Some are former Scarlet Crusaders. They hold Shadowvale under Commander Rudolph Gelhardt, and every killing they commit makes the keep's paladins easier to distrust.
+- **Not found in the sources:** whether the Light hurts an undead paladin, or how it feels to wield it. Leave that to the player and present it as the character's own experience.
+
+**For profiles:** a Forsaken paladin can serve at Bandarion Keep, be a lone seeker who's heard of it, or be on the outs with Danitha's order. Rich tensions come built in: mistrusted by the Forsaken, seen as "curable" by the Argent Dawn, shadowed by the Tarnished. Don't make the character the first Forsaken paladin, or Garek's equal; that place belongs to Garek.
 
 **Off-model concepts.** TRP3's Race and Class fields are free text, so a profile may say "Half-elf" or "Arcanist". Forever's playable bodies are still the nine races above. Concepts the game can't show (a high elf played on a human model, a blood elf in 25 ADP Horde lands) are a community-etiquette question; many RP groups frown on them. Mention this, then follow the player's choice.
 
@@ -177,5 +194,12 @@ Other groups: **Nightclaw Druids** (Shadowgale Forest, independent), **Peacekeep
 - Gfinity, all race/class combinations: https://www.gfinityesports.com/article/world-of-warcraft-forever-guide-all-race-class-combinations
 - Icy Veins, new race/class combos: https://www.icy-veins.com/wow-forever/news/all-new-race-and-class-combos-and-racial-abilities-in-wow-forever-official/
 - NoobToBoss, Forever lore and timeline: https://noobtoboss.com/?p=8537
+- Warcraft Wiki, "Bandarion Keep": https://warcraft.wiki.gg/wiki/Bandarion_Keep
+- Warcraft Wiki, "A Righteous Cause" (quest): https://warcraft.wiki.gg/wiki/A_Righteous_Cause
+- Warcraft Wiki, "The Tarnished" (quest): https://warcraft.wiki.gg/wiki/The_Tarnished
+- Warcraft Wiki, "Danitha Morr": https://warcraft.wiki.gg/wiki/Danitha_Morr
+- Blizzard news, Forever names: https://news.blizzard.com/en-us/article/24304161
+- Method.gg, names and rulesets: https://www.method.gg/wow-forever/choosing-your-character-name-and-ruleset-in-wow-forever
+- Warcraft Tavern, character creation: https://www.warcrafttavern.com/forever/guides/character-creation/
 - Massively OP, Forsaken paladin video: https://massivelyop.com/2026/09/29/world-of-warcraft-forever-promotes-the-undead-paladin-and-other-new-class-combos-in-its-latest-video/
 - Section 4 (the original game's 25 ADP world) is long-established lore from the 2004 game. Check the matching Warcraft Wiki pages when a detail matters.

@@ -17,6 +17,8 @@ A [Claude Code](https://claude.com/claude-code) skill that writes **roleplay (RP
   - age arithmetic
   - anachronisms from later expansions (blood elves in the Horde, the Argent Crusade, the Cataclysm …)
   - lore figures kept in the background
+  - Forever-only lore such as the Forsaken paladins of Bandarion Keep
+- Gives every character a valid Forever in-game name (first + last name; no apostrophes or hyphens) alongside the free-text TRP3 name.
 - Writes for other players: observable descriptions, no god-moding, secrets kept in a separate player-only section, and hooks to walk up to.
 - Also handles part-jobs: polishing an existing profile, suggesting names, writing a Currently line, or lore-checking a backstory.
 

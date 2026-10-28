@@ -22,7 +22,7 @@ A full profile needs five things:
 
 1. **Race and faction**
 2. **Class**
-3. **Name**, or a request for suggestions
+3. **Name**, or a request for suggestions. Forever needs a first *and* a last name in-game
 4. **Concept**: who they are, what they want, what stands in the way (a sentence or two is enough)
 5. **Flavour**: age, pronouns, tone (hopeful, grim, comic), any must-have detail
 
@@ -34,7 +34,7 @@ If key pieces are missing, ask for them **in one message**: 3–5 short numbered
 
 Read `references/forever-lore.md`. Check:
 
-- The race/class pair is playable for that faction (section 3). The six new pairs are new to the lore as well, so frame them as this one character's path, not as an established order.
+- The race/class pair is playable for that faction (section 3). **Forsaken paladins** have an official order in Forever, Bandarion Keep, so always offer it. The other five new pairs have no documented story in the references: frame them as this one character's path, and never claim no order exists.
 - Ages and "they were there when…" claims fit the timeline (section 2). Forsaken have been undead for at most about 5 years.
 - Nothing in the concept comes from after 25 ADP (section 5).
 - Lore figures stay in the background.
@@ -49,6 +49,7 @@ Follow `references/profile-craft.md` for the writing and `references/trp3-fields
 - The physical description holds only what an observer can perceive. No god-moding (no telling readers how they feel or react).
 - The history is the public version, ending in a **Rumours** block. Secrets go in the player notes.
 - Give at least **three hooks** across the profile: a visible detail, a need or job, a rumour, an affiliation.
+- The **in-game name** must follow Forever's rules (`profile-craft.md` section 6): first and last name, each 2–12 letters, no apostrophes or hyphens. Count it with a script if you can. Put apostrophe spellings and titles in the TRP3 fields instead.
 - Currently and OOC must each be **140 characters or fewer**. Count them, using a quick script if you can run code, and show the counts.
 - Use About **template 3** (Physical description / Personality / History) unless the player wants a designed page. Template 1 suits heavy markup; template 2 suits many small blocks.
 - Use markup lightly (`{h3}` headings, the odd `{col:…}` accent). The text must read fine with tags stripped, because MyRolePlay and XRP users see it that way.
@@ -64,6 +65,7 @@ Use this structure. Short fields go in tables. Long paste-ready text goes in `te
 ````markdown
 # <Full name> — TRP3 profile
 *WoW: Forever · <Faction> · <Race> <Class>*
+*In-game name: <First> (<n>) <Last> (<n>)*
 
 > **Lore notes:** <only if something was changed or flagged: what, why, how to revert>
 > **Assumed / invented:** <details you made up; the player can change them freely>
@@ -140,12 +142,13 @@ Set these in Miscellaneous → Roleplay style: injury, death, romance, criminal 
 ## Other kinds of request
 
 - **Polishing an existing profile:** keep the player's voice, names and core events. Fix lore errors first, then god-moding, then leaked secrets, length and the tooltip limits, then prose. Give the revised profile in the same output format, followed by a bullet list of each substantive change and why (see `profile-craft.md` section 8).
-- **Part-jobs** (just names, just a Currently line, just a lore check): do only that part, with the same rules: lore check, 140-character limit with the count shown, three name options with a note on each.
+- **Part-jobs** (just names, just a Currently line, just a lore check): do only that part, with the same rules: lore check, 140-character limit with the count shown, three name options each with an in-game spelling, character counts and a note on its feel.
 - **Retail or Classic Era characters:** the TRP3 layout still applies, but this skill's lore checks are for Forever's 25 ADP. Say so, and don't apply Forever's anachronism list to a retail character.
 
 ## Self-check list
 
-- [ ] Race/class/faction is valid in Forever, or flagged
+- [ ] Race/class/faction is valid in Forever, or flagged; Forsaken paladins are offered Bandarion Keep
+- [ ] In-game name is first + last, each part 2–12 letters, no apostrophes, hyphens or titles; counts shown
 - [ ] No post-25 ADP concepts, or flagged with a swap
 - [ ] Ages agree with the timeline; Forsaken undead for ≤ ~5 years; Skyborne have no prior Azeroth history
 - [ ] Physical description holds only what can be observed; no god-moding; doesn't contradict the race's in-game look

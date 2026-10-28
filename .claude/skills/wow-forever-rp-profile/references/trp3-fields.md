@@ -20,7 +20,7 @@ Taken from the TRP3 source code (github.com/Total-RP/Total-RP-3, `main` branch, 
 | Field | Notes from TRP3's own tooltips |
 |---|---|
 | Title | Short, like "Countess", "Magus", "Lord". TRP3 says to avoid long titles and use Full title for those |
-| First name | Mandatory. If blank, TRP3 uses the in-game name. Nicknames are allowed |
+| First name | Mandatory. If blank, TRP3 uses the in-game name. Nicknames are allowed. Free text, so apostrophe spellings Forever's in-game names forbid ("Ka'jinto") belong here |
 | Last name | Optional |
 | Full title | A longer epithet or a different title: "Warden of Thendal Grove" |
 | Race | Free text. Custom values are allowed ("Half-elf") |

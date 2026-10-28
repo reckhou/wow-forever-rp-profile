@@ -69,24 +69,42 @@ Count the characters, spaces included, and show the count.
 
 ## 6. Names
 
-- **Avoid lore-family surnames** unless the player insists, and flag them if so: Wrynn, Proudmoore, Windrunner, Stormrage, Whisperwind, Hellscream, Bloodhoof, Bronzebeard, Mekkatorque, Fordring and the like. Other players will assume kinship.
-- **Avoid puns, modern words and pop-culture references** on RP realms.
-- When asked for names, offer **three options** with a word on each one's feel.
-- Rough conventions, built from established lore names:
+Every Forever character has **two names**: the in-game name, which must pass Blizzard's rules, and the TRP3 name (First name, Last name, Title), which is free text and can be anything. Always give both, even when they're the same.
+
+**In-game name rules**
+
+| Rule | Source |
+|---|---|
+| A **first and a last name**, both required. The full combination must be unique within the region; either part alone can be shared, so a family or guild can share a surname | Blizzard |
+| The last name can be hidden in the world (Options → Nameplates → "My Secondary Name"), but it still shows in chat | Blizzard |
+| The Code of Conduct applies, and both parts are judged together. "Certain names, words, spellings, and repeated-character patterns may be restricted" | Blizzard |
+| Early Name Reservation runs 27 October–3 November 2026 for eligible upgrade buyers, first come, first served | Blizzard |
+| RP and RP-PvP rulesets need **lore-friendly** names: "a believable name for a person in the imaginary world", no puns | Warcraft Tavern, Method.gg |
+| Each part is **2–12 characters**. **No numerals, apostrophes, hyphens** or most special characters. Accented letters (ö, ä, å, á) are allowed | **Method.gg only**; Blizzard hasn't confirmed it. Say so when it matters |
+
+**What this means in practice**
+
+- **Count both parts** with a script when you can run code, and show the counts: "Saelith (7) Windquill (9)". A name that fails the 2–12 rule needs a shorter in-game spelling.
+- **Apostrophe and hyphen names** (common for trolls and orcs) can't be in-game names. Give an in-game spelling without them ("Kajinto") and keep the apostrophe form ("Ka'jinto") for TRP3's First name field.
+- **Races with no tradition of surnames** (orcs, trolls, tauren) still need a last name in-game. Use a clan or tribe ("Frostwolf", "Darkspear"), an earned epithet ("Ironjaw", "Ashhand") or a totem name ("Stormhorn"). TRP3 can still show the fuller form ("of the Frostwolves") in Last name or Full title.
+- **Titles and honorifics** ("Sir", "Magister") go in TRP3's Title field, never in the in-game name.
+- **Avoid lore-family surnames** unless the player insists, and flag them if they do: Wrynn, Proudmoore, Windrunner, Stormrage, Whisperwind, Hellscream, Bloodhoof, Bronzebeard, Mekkatorque, Fordring, Bandarion and the like. Other players will assume kinship, and the name filter may reject them.
+- **Avoid puns, modern words and pop-culture references.**
+- When asked for names, offer **three options**, each with its in-game spelling, the character counts and a word on its feel.
+
+**Rough conventions**, built from established lore names (in-game spellings shown; every part fits 2–12 letters):
 
 | Race | Feel | Examples of the pattern |
 |---|---|---|
 | Human | Medieval European; trade or place surnames | Aldric Hollins, Mara Ashby, Edwin Tallow |
 | Dwarf | Scots/Norse flavour; stone, metal and beard compounds; clans | Brogan Flintbrow, Hilde Coppermantle |
-| Gnome | Bouncy syllables; tinkering surnames | Tibbi Sprocketwhistle, Fennick Gearsley |
+| Gnome | Bouncy syllables; tinkering surnames | Tibbi Cogwhistle, Fennick Gearsley |
 | Night elf | Flowing Darnassian; moon, leaf and night surnames | Ilanthe Moonbreeze, Faelar Duskbough |
 | Skyborne | Darnassian first names; wind, sky and storm surnames | Saeleth Galewright, Iyanna Cloudmere |
-| Orc | Hard consonants; "of the [clan]" | Grashka of the Frostwolves, Durgash Ironjaw |
+| Orc | Hard consonants; clan or epithet as last name | Grashka Frostwolf, Durgash Ironjaw |
 | Tauren | Plain first name; nature or totem surnames | Hakan Stormhorn, Taya Mistwalker |
-| Troll | Apostrophes and "j"/"z" sounds; Darkspear ties | Ka'jinto, Rasha'zul, Vez'tani |
-| Forsaken | The name from life (usually Lordaeronian), or a grim one they chose | Thomas Hale "the Hollow", Lenore Ashgrave |
-
-- Forever lists first and last names as an in-game feature, but its rules weren't published at the time of writing. The TRP3 name is independent of the in-game name either way.
+| Troll | "j"/"z" sounds; tribe or epithet as last name. Apostrophes for TRP3 only | Kajinto Darkspear (TRP3: Ka'jinto), Vextani Bonecaller |
+| Forsaken | The name from life (usually Lordaeronian), or a grim one they chose | Thomas Hale (TRP3 Title: "the Hollow"), Lenore Ashgrave |
 
 ## 7. Power and specialness
 
