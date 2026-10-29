@@ -1,6 +1,10 @@
 # Baldrake Cavethrone — TRP3 profile (final)
 *WoW: Forever · Horde · Troll Warlock · In-game name: Baldrake (8) Cavethrone (10)*
 
+> **Lore notes:** if Forever tells the Zalazane story differently, change "Zalazane's madness took the Echo Isles" to "the Echo Isles fell" and change the two Zalazane rumours to match. Check the troll warlock trainer's quests after launch for any official explanation of the class. A safer in-game spelling is Baldrak (7).
+>
+> **Player-only notes** (the truth behind the rumours, his secrets and story ideas) are deliberately left out of this public sample.
+
 ## Paste order in TRP3
 1. **Characteristics tab:** the table below, then the Additional information rows, then drag the four trait sliders.
 2. **About tab:** choose **template 3**, then paste the three blocks into Physical description, Personality and History.
@@ -114,26 +118,6 @@ Walk-ups welcome! Playful RP: a fallen troll lord with big talk and a small cave
 
 ## Roleplay style — your call
 Set these in Miscellaneous → Roleplay style: injury, death, romance, criminal activity, loss of control (Yes / No / With player permission), and whether guild membership is IC or OOC.
-
----
-
-## For the player (don't paste)
-- **Lore watch:** if Forever tells the Zalazane story differently, change "Zalazane's madness took the Echo Isles" to "the Echo Isles fell" and change the two Zalazane rumours to match. Check the troll warlock trainer's quests after launch for any official explanation of the class. If you want a safer in-game spelling, use Baldrak (7).
-- **Truth behind the rumours:**
-  1. *First into the canoes:* **true**.
-  2. *A palace with a gold roof:* **false**. It was a large hut with a shell roof, and he started the rumour himself.
-  3. *The crab:* **true**.
-  4. *Zalazane's offer:* left **open**.
-  5. *The pot he never spends:* **half-true**. He does spend it, just not on himself.
-- **Secrets:**
-  - The toll money goes, anonymously, to families from his old village who are struggling in Sen'jin. A lord who ran still owes his people. He can't face them, but he can pay them.
-  - The Grand Vizier knows where the money goes, and charges him in candles to keep quiet.
-- **Where he could grow:**
-  - The Darkspear move to retake the Echo Isles.
-  - One of the families works out who their anonymous giver is.
-  - Zalazane's agents come with a real offer.
-  - The people who pay his toll become a small "court" that could turn into a guild.
-  - The troll who first called him "bald drake" turns up again.
 
 ---
 

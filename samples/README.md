@@ -6,7 +6,7 @@ Profiles made with the `wow-forever-rp-profile` skill, kept as worked examples o
 |---|---|---|
 | [`baldrake-cavethrone/`](baldrake-cavethrone/) | Lord Baldrake Cavethrone · Horde · Troll Warlock (one of Forever's new race/class pairs) | [`profile.md`](baldrake-cavethrone/profile.md): the full TRP3 profile, in template 3 with a template 1 alternative (headings and a crimson accent)<br>[`voice-guide.md`](baldrake-cavethrone/voice-guide.md): voice rules and two sample scenes |
 
-**Spoilers:** each profile ends with player-only notes: the truth behind the rumours, the secrets, and where the character could grow. In real play those stay private. They're included here to show the skill's full output.
+**No spoilers:** the skill also writes player-only notes (the truth behind the rumours, the character's secrets and story ideas). Those are deliberately left out of public samples, because they would spoil in-character play for anyone who meets the character in game.
 
 ## How Baldrake was made
 1. **First request:** "a troll warlock (male) named Baldrake Cavethrone, with the idea of 禿龍洞主" ("bald-dragon cave lord"). The skill drafted straight away and listed what it had assumed.

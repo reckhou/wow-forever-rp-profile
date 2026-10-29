@@ -53,7 +53,7 @@ Use **one per scene at most**. They stay funny only if they're rare.
 | "Here's your copper." | A bow a little too deep. "A subject of rare quality! Vizier, a title for dis one." |
 | Someone brings up Zalazane | Cold register: "Not at my fire." |
 | Someone offers rum | "Rum count as a story." |
-| Someone from Sen'jin | Warmer than usual. He asks after families by name, then changes the subject quickly |
+| Someone from Sen'jin | Warmer than usual, and quicker to change the subject |
 
 ### "Why 'bald'?": his rotating answers
 He is slightly deceitful, so he never gives the same answer twice:
@@ -80,11 +80,9 @@ These are ready-made emotes. Mix and match:
   - It starts his full list of titles and never gets to finish.
   - It writes down everyone who doesn't pay.
   - It looks pointedly at Baldrake whenever he goes soft.
-  - It charges him in candles to keep his secret.
 - **Lines** (shrill and bored):
   - "Halt! You approach Lord Baldrake, Master of da Cave, Rightful Lord of—"
   - "Non-payer. Twenty-four."
-  - "Candles. Three."
 - **Playing it:** emote the imp through Baldrake's own lines ("Baldrake's imp scrambles onto a rock…"). It's the easiest way to puncture his grandeur without him having to do it himself.
 
 ## Do and don't
@@ -97,7 +95,6 @@ These are ready-made emotes. Mix and match:
 **Don't**
 - Make the toll a real threat. "Nothin'. Yet." is as menacing as he gets.
 - Have him call on the loa sincerely.
-- Reveal where the toll money goes. Let other players work it out.
 - Ever let him call himself bald. He's moulting.
 
 ## Sample scene 1: someone refuses the toll
@@ -132,7 +129,7 @@ These are ready-made emotes. Mix and match:
 **Baldrake** glances out across the water towards the Echo Isles, just for a moment, before settling back on his throne.
 
 ## Sample scene 2: someone pays, with a story
-*Shows the Plain register and the mask going back on. Ruzani is a stand-in for another player, from a different Echo Isles village, so his secret stays safe.*
+*Shows the Plain register and the mask going back on. Ruzani is a stand-in for another player, from a different Echo Isles village.*
 
 > *Dusk. A young Darkspear fisher, Ruzani, comes along the coast path with a net over one shoulder.*
 
@@ -176,6 +173,6 @@ These are ready-made emotes. Mix and match:
 | No joke where one would fit | After "You ran first" | The silence says more than an explanation would |
 | Rational even about guilt | "His was the better bargain." | He weighs it like a deal, and the sums go against him |
 | The mask goes back on | "I got a reputation!" | Keeps him playful rather than mopey |
-| The imp sees through him | The pointed ledger entry, then "Don't." | Hints at the candle blackmail without stating it |
+| The imp sees through him | The pointed ledger entry, then "Don't." | Shows the imp knows more than it says |
 
 **Lore note:** the drums and the dancing headman lean on the original game's Zalazane story on the Echo Isles. If Forever tells that story differently, change those lines to match.
