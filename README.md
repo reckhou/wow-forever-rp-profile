@@ -39,7 +39,8 @@ Then ask, for example: *"Write a TRP3 profile for my Horde Skyborne shaman on Fo
 ├── references/
 │   ├── forever-lore.md          25 ADP setting, race/class table, Skyborne lore, anachronisms, sources
 │   ├── trp3-fields.md           TRP3 tabs, fields, markup tags and limits (from the TRP3 source)
-│   └── profile-craft.md         how to write a profile people want to interact with
+│   ├── profile-craft.md         how to write a profile people want to interact with
+│   └── lore/                    one file per zone, dungeon and boss, plus world.md (CC BY-SA 4.0)
 └── evals/                       test cases (claude plugin eval layout)
 docs/plans/                      design plan
 samples/                         worked examples of the skill's output (profiles, voice guides)
@@ -53,4 +54,4 @@ Issues and pull requests with corrections are welcome.
 
 ## Licence
 
-[MIT](LICENSE). World of Warcraft and Warcraft are trademarks of Blizzard Entertainment, Inc. This is an unofficial fan project, not affiliated with or endorsed by Blizzard or the Total RP 3 authors.
+[MIT](LICENSE), except `references/lore/`, which is adapted from Warcraft Wiki and stays under CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike; see `references/lore/ATTRIBUTION.md`). World of Warcraft and Warcraft are trademarks of Blizzard Entertainment, Inc. This is an unofficial fan project, not affiliated with or endorsed by Blizzard or the Total RP 3 authors.

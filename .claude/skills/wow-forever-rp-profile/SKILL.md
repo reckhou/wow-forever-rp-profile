@@ -38,6 +38,7 @@ Read `references/forever-lore.md`. Check:
 - Ages and "they were there when…" claims fit the timeline (section 2). Forsaken have been undead for at most about 5 years.
 - Nothing in the concept comes from after 25 ADP (section 5).
 - Lore figures stay in the background.
+- When the backstory names a zone, dungeon or boss, read the matching file under `references/lore/` (`zones/<zone>.md`, `bosses/<dungeon>/<boss>.md`; `world.md` for the continents) so the places and events are right.
 - Skyborne are newcomers to Azeroth (section 7). They have no earlier history there.
 
 When something conflicts, **say so plainly and briefly, with the reason, and offer a period-correct alternative.** A small conflict (a retail-only organisation name, an age that doesn't add up) gets fixed in the draft and flagged at the top, so the player can revert it. If the conflict breaks the concept (a draenei, a death knight of the Ebon Blade), ask before drafting and suggest the closest thing that does fit. It's the player's character, so don't lecture.
