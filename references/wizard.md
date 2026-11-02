@@ -26,7 +26,7 @@ Never hold up the work for it. With "just write it" or a specific request on an 
 | **Profile** | Plain template 3 with little markup. Add **First scene** to the player notes | As `SKILL.md` step 4 describes | Offer a designed template 1 or 2 page with heavier markup |
 | **Stage 9** | Recommend the voice guide. Walk through pasting in full, and explain what each Roleplay style setting means | As stage 9 describes | Offer the voice guide. Give the paste order in one message and ask if they want the walkthrough |
 
-Every level gets the same lore checks, in-game name rules, character limits, self-check list and revision offers, and the player still sets the consent options. Experience changes how much you explain and how complex the character is, not how well the profile is checked.
+Every answer gets the same lore checks, in-game name rules, character limits, self-check list and revision offers, and the player still sets the consent options. Experience changes how much you explain and how complex the character is, not how well the profile is checked.
 
 ## Asking
 
@@ -52,7 +52,7 @@ Every stage accepts "invent it", and an invention is shown in the brief for appr
 
 Ask a new character's level, offering 1 as the default because a newly created character is usually level 1, and let the player give any other. If the request doesn't say, it doesn't hold the stage open: put level 1 in the brief, marked *(proposed)*. Don't ask for an existing profile, whose brief shows a level only if the player or the profile gives one.
 
-The level is the character's in-game progress, not their life experience, so a level 1 can still be a veteran. It only limits what the profile says they are doing now: Currently and the hooks stay within what that level can reach in play. It goes in the brief and not in the TRP3 fields, because the game shows it.
+The level is the character's in-game progress, not their life experience, so a level 1 can still be a veteran. It only sets the starting point: what they are doing now, in Currently and the hooks, stays within what that level can reach in play. It is recorded in the brief and nowhere else. Don't state it in the TRP3 profile or the voice guide, because it changes as the character plays and the text would go out of date.
 
 ### Stage 2: the look
 

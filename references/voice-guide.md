@@ -42,4 +42,5 @@ A list is finished when all of these hold:
 
 - **Say when a trait comes out, and let it rest:** "money is his running joke, and a joke needs a rest". Leave out orders of frequency ("in every scene", "always"), because they make that trait the point of every reply.
 - **Spread the examples.** Across the signature lines, openers and sample scenes, let no single trait fill most of them, because examples teach as strongly as rules.
+- **Leave out the character's level.** It only sets the starting point in the brief, and it goes out of date as the character plays.
 - **Keep advice for the human out of the guide.** Tips on playing the character, finding scenes or growing them over time go in a separate player notes file, because an AI reads them as things to act on in the scene.

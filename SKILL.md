@@ -90,5 +90,6 @@ Before sending, check the draft against the list at the end of this file. Then s
 - [ ] At least three hooks; Rumours block present
 - [ ] Currently ≤ 140 and OOC ≤ 140 characters, counts shown
 - [ ] Consent settings left for the player
+- [ ] The character's level is not stated anywhere in the profile
 - [ ] Text reads cleanly with the tags stripped
 - [ ] Assumptions and invented details are listed
