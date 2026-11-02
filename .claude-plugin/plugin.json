@@ -1,0 +1,7 @@
+{
+  "name": "wow-forever-rp-profile",
+  "description": "Write, polish and lore-check roleplay character profiles for World of Warcraft: Forever, laid out for the Total RP 3 addon.",
+  "author": { "name": "Shane Hou" },
+  "repository": "https://github.com/reckhou/wow-forever-rp-profile",
+  "license": "MIT"
+}

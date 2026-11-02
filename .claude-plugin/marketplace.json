@@ -1,0 +1,14 @@
+{
+  "name": "wow-forever-rp-profile",
+  "description": "Roleplay character profiles for World of Warcraft: Forever.",
+  "owner": {
+    "name": "Shane Hou"
+  },
+  "plugins": [
+    {
+      "name": "wow-forever-rp-profile",
+      "source": "./",
+      "description": "Write, polish and lore-check roleplay character profiles for World of Warcraft: Forever, laid out for the Total RP 3 addon."
+    }
+  ]
+}

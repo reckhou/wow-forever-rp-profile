@@ -25,26 +25,46 @@ A [Claude Code](https://claude.com/claude-code) skill that writes **roleplay (RP
 
 ## Install
 
-The skill lives in `.claude/skills/wow-forever-rp-profile/`.
+Pick one. All of them run on their own, with nothing else needed.
 
-- **Use it in this folder:** clone the repository and run Claude Code inside it. Project skills load automatically.
-- **Use it everywhere:** copy `.claude/skills/wow-forever-rp-profile/` into `~/.claude/skills/`.
+- **As a plugin:**
+  ```
+  claude plugin marketplace add reckhou/wow-forever-rp-profile
+  claude plugin install wow-forever-rp-profile@wow-forever-rp-profile
+  ```
+  Add `--scope project` or `--scope local` to the install to turn it on for one project only. The files still go to Claude Code's plugin cache in your user folder.
+- **As a personal skill:** `git clone https://github.com/reckhou/wow-forever-rp-profile.git ~/.claude/skills/wow-forever-rp-profile`
+- **For one session, with nothing installed:** clone it anywhere and run `claude --plugin-dir <folder>`.
+- **Inside another project:** place it at `.claude/skills/wow-forever-rp-profile`, as a copy or a git submodule. It is available when Claude Code starts in that project.
 
-Then ask, for example: *"Write a TRP3 profile for my Horde Skyborne shaman on Forever"*. Or just say *"make me an RP profile for my orc on Forever"*, and it will ask what it needs.
+Then type `/wow-forever-rp-profile`, or just ask, for example: *"Write a TRP3 profile for my Horde Skyborne shaman on Forever"*. Or say *"make me an RP profile for my orc on Forever"*, and it will ask what it needs.
 
 ## Layout
 
 ```
-.claude/skills/wow-forever-rp-profile/
-├── SKILL.md                     workflow and output format
-├── references/
-│   ├── forever-lore.md          25 ADP setting, race/class table, Skyborne lore, anachronisms, sources
-│   ├── trp3-fields.md           TRP3 tabs, fields, markup tags and limits (from the TRP3 source)
-│   ├── profile-craft.md         how to write a profile people want to interact with
-│   └── lore/                    one file per zone, dungeon and boss, plus world.md (CC BY-SA 4.0)
-└── evals/                       test cases (claude plugin eval layout)
-docs/plans/                      design plan
-samples/                         worked examples of the skill's output (profiles, voice guides)
+SKILL.md                     workflow and output format
+references/
+├── forever-lore.md          25 ADP setting, race/class table, Skyborne lore, anachronisms, sources
+├── trp3-fields.md           TRP3 tabs, fields, markup tags and limits (from the TRP3 source)
+├── profile-craft.md         how to write a profile people want to interact with
+└── lore/                    one file per zone, dungeon and boss, plus world.md (CC BY-SA 4.0)
+.claude-plugin/              plugin and marketplace manifests
+evals/                       test cases (claude plugin eval layout)
+scripts/, tests/             the lore rebuild script and its tests
+docs/plans/                  design plan
+samples/                     worked examples of the skill's output (profiles, voice guides)
+```
+
+`git archive` leaves out everything except `SKILL.md`, `references/` and `LICENSE`, the only files the skill needs to run. `.gitattributes` holds that list.
+
+## Rebuilding the lore
+
+`references/lore/` is generated from the [Spoken add-on](https://github.com/rusty-key/spoken-wow)'s data, so don't edit it by hand. Other projects read these files, so keep their names and layout stable. The script needs Python 3 and [Lupa](https://pypi.org/project/lupa/).
+
+```
+git clone --depth 1 https://github.com/rusty-key/spoken-wow private-local/spoken-wow
+python -I scripts/build_spoken_lore.py --spoken private-local/spoken-wow --out references/lore
+python -m unittest discover -s tests
 ```
 
 ## Accuracy
