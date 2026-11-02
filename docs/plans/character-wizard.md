@@ -17,6 +17,8 @@ Status: built on 2 November 2026. One eval run, with Bash withheld and one run p
 | Screenshot | Required, pasted into chat or read from the player's WoW `Screenshots` folder. "Add later" is allowed and holds back the physical description |
 | Flavour | Required. "Invent it" counts as an answer, and the invention is shown in the brief for approval |
 | Existing profiles | Supported by the same flow, and also how a late screenshot gets added |
+| Broad ideas first (added 2 November 2026) | A test character given only a temperament went straight to a filled-in brief, then the profile and voice guide together. A temperament no longer counts as a concept: after the look, the player picks from three broad ideas. A request that says who the character is and what they want still goes straight to the brief |
+| Profile before voice guide (added 2 November 2026) | The player accepts the profile before the voice guide starts, even when a calling skill requires the guide |
 | After drafting | The skill stops at a tab-by-tab paste walkthrough. Writing to SavedVariables or installing into RPMaster is not the skill's job, because the skill runs standalone |
 
 ## Defaults chosen
@@ -24,8 +26,8 @@ Status: built on 2 November 2026. One eval run, with Bash withheld and one run p
 - **Files:** `<character-name>/brief.md`, `profile.md` and `voice-guide.md` under the current directory, matching `RPProfiles-Private`.
 - **"Just write it"** also waives the screenshot: the look is invented and listed under Assumed / invented, so the player still gets a complete profile.
 - **Test scenes** are not a separate offer. The voice guide already has a Sample scenes section.
-- **Calling skills:** a skill that calls this one can say what happens at stage 9, such as requiring the voice guide or doing the entry itself. The skill still knows nothing of RPMaster.
-- **Player's RP experience:** asked in the first message, as new to RP, some experience or experienced, and recorded in the brief. It changes the explanations, concept complexity, markup and stage 9, not the lore checks or limits. It sits outside the numbered stages so that references to stage 7 and stage 9 stay correct.
+- **Calling skills:** a skill that calls this one can say what happens at stage 8, such as requiring the voice guide or doing the entry itself. The skill still knows nothing of RPMaster.
+- **Player's RP experience:** asked in the first message, as new to RP, some experience or experienced, and recorded in the brief. It changes the explanations, concept complexity, markup and stage 8, not the lore checks or limits. It sits outside the numbered stages because it is about the player, not the character.
 - **Character level:** recorded only in the brief, as the starting point. The TRP3 profile and voice guide never state it, because it goes out of date as the character plays.
 - **Question format:** `AskUserQuestion` where available, numbered text elsewhere. Its four-option limit means faction comes before race, and class uses text or a narrowed list.
 
@@ -37,13 +39,12 @@ Each stage takes one turn. Anything the request already answered is pre-filled a
 |---|---|---|
 | 1 | **Identity:** faction, race, class, level | The pair is valid in `forever-lore.md` section 3, or the player accepted the closest fit. Forsaken paladins have been offered Bandarion Keep. A new character's level is from 1 to 60, defaulting to 1 |
 | 2 | **Look:** screenshot | The image was read and its eye colour, hair and build noted, or the player chose "add later" |
-| 3 | **Name:** check theirs or offer three options | The in-game first and last names pass `profile-craft.md` section 6, with counts shown |
-| 4 | **Home:** a place | `references/lore/world.md` and that place's file are read, or the place is noted as having no file |
-| 5 | **Concept:** three seeds built from that lore | Who they are, what they want, what they fear and what blocks them are all settled |
-| 6 | **Flavour:** age, pronouns, tone, what they miss, what they enjoy, sliders | Every field has a value, and the age fits `forever-lore.md` section 2 |
-| 7 | **Brief:** one summary with lore flags and invented details | The player confirmed it and `brief.md` is saved |
-| 8 | **Draft:** the existing lore, rooting, drafting and self-check steps | `profile.md` is saved and the self-check list passes |
-| 9 | **Finish:** offer the voice guide, then walk through pasting tab by tab | The player accepted or declined the guide, and each TRP3 tab was covered or skipped |
+| 3 | **Broad ideas:** three short ideas built from the lore, then wait for the player | The player chose or shaped one, so who they are, what they want, what they fear, what blocks them and their home are settled. `references/lore/world.md` and each place's file are read, or the place is noted as having no file |
+| 4 | **Name:** check theirs or offer three options | The in-game first and last names pass `profile-craft.md` section 6, with counts shown |
+| 5 | **Flavour:** age, pronouns, tone, what they miss, what they enjoy, sliders | Every field has a value, and the age fits `forever-lore.md` section 2 |
+| 6 | **Brief:** one summary with lore flags and invented details | The player confirmed it and `brief.md` is saved |
+| 7 | **Draft:** the existing lore, rooting, drafting and self-check steps | `profile.md` is saved, the self-check list passes and the player accepted the profile |
+| 8 | **Finish:** offer the voice guide, then walk through pasting tab by tab | The player accepted or declined the guide, and each TRP3 tab was covered or skipped |
 
 ## Existing profiles
 
@@ -58,7 +59,7 @@ Each stage takes one turn. Anything the request already answered is pre-filled a
 | File | Change |
 |---|---|
 | `references/wizard.md` (new) | The stages, their completion criteria, the existing-profile flow, question format and file saving |
-| `references/output-format.md` (new) | The output format moved out of `SKILL.md`, plus the paste order from the Baldrake sample, used by stage 9. Part-jobs and voice guides do not need it |
+| `references/output-format.md` (new) | The output format moved out of `SKILL.md`, plus the paste order from the Baldrake sample, used by stage 8. Part-jobs and voice guides do not need it |
 | `SKILL.md` | Step 1 becomes routing: full new character or rework goes to the wizard, with the "just write it" rule. The screenshot and flavour rules replace "draft straight away". The output format becomes a pointer. Steps 2–5 stay |
 | `evals/` | Cut to four basic sanity checks at the owner's request, because runs are expensive. Do not add to them. `detailed-request-brief-first`: gives a brief, not a profile. `forsaken-paladin-lore-traps` and `skyborne-mage-newcomer`: "just write it" gives a full profile. `revise-profile-gaps`: an existing profile with no screenshot gets its gaps shown |
 | `README.md` | Update the "What it does" and Layout sections |
