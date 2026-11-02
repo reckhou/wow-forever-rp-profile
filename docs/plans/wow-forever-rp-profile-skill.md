@@ -11,7 +11,7 @@ A Claude Code skill that writes lore-friendly RP character profiles for **World 
 | Question | Decision |
 |---|---|
 | Addon layout | TRP3 only (TRP3 supports the Forever client: its `.toc` lists interface `16001` and its 3.5.2 changelog fixes a bug "on Forever") |
-| Intake | Short interview (3-5 questions in one message), then draft. Skip the interview when the request already covers the essentials |
+| Intake | Replaced on 2 November 2026 by the wizard in [`character-wizard.md`](character-wizard.md). Originally: short interview (3-5 questions in one message), then draft, skipping the interview when the request already covers the essentials |
 | Language | English |
 | Location | Project-level skill at `.claude/skills/wow-forever-rp-profile/` in this folder, which is its own public GitHub repository |
 

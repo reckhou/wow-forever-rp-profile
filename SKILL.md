@@ -16,19 +16,11 @@ Craft guidance (what makes a profile good to interact with) is in `references/pr
 
 ## Workflow
 
-### 1. Gather the essentials
+### 1. Route the request
 
-A full profile needs five things:
-
-1. **Race and faction**
-2. **Class**
-3. **Name**, or a request for suggestions. Forever needs a first *and* a last name in-game
-4. **Concept**: who they are, what they want, what stands in the way (a sentence or two is enough)
-5. **Flavour**: age, pronouns, tone (hopeful, grim, comic), where they come from, any must-have detail
-
-If the request already gives race, class and some concept, **don't interview. Draft straight away**, fill the gaps sensibly, and list what you assumed. Players who give you a paragraph want to see a profile, not a questionnaire.
-
-If key pieces are missing, ask for them **in one message**: 3–5 short numbered questions, each with examples or options so the player can answer in a word or two. Always add "…or tell me to invent it." Then draft once they answer. Don't ask about consent settings (injury, death, romance and so on). Those are listed in the output for the player to set.
+- **A new character, or reworking an existing profile:** read `references/wizard.md` and follow it. It gathers the look, flavour and concept into a **brief** the player confirms, and it comes back to the steps below to draft. Consent settings (injury, death, romance and so on) stay out of it: the output lists them for the player to set.
+- **"Just write it"**, or anything else that says to skip the questions: start at step 2 with what the request gives. Invent the rest, including the look, and list it all under **Assumed / invented**.
+- **Anything else:** see [Other kinds of request](#other-kinds-of-request).
 
 ### 2. Check the concept against the lore
 
@@ -77,93 +69,10 @@ Follow `references/profile-craft.md` for the writing and `references/trp3-fields
 
 ### 5. Self-check, then reply
 
-Before sending, check the draft against the list at the end of this file. Then present it in the output format below, and end with two or three **specific** revision offers, for example "a grimmer take on the history", "three alternative surnames", or "a template 1 version with headings and colour".
-
-## Output format
-
-Use this structure. Short fields go in tables. Long paste-ready text goes in `text` code blocks, so TRP3's `{tags}` survive and each block can be copied in one go. Leave out empty optional rows instead of writing "N/A".
-
-````markdown
-# <Full name> — TRP3 profile
-*WoW: Forever · <Faction> · <Race> <Class>*
-*In-game name: <First> (<n>) <Last> (<n>)*
-
-> **Lore notes:** <only if something was changed or flagged: what, why, how to revert>
-> **Assumed / invented:** <details you made up; the player can change them freely>
-
-## Characteristics
-| Field | Value |
-|---|---|
-| Title | … |
-| First name | … |
-| Last name | … |
-| Full title | … |
-| Race | … |
-| Class | … |
-| Age | … |
-| Birthplace | … |
-| Residence | … |
-| Eye colour | … |
-| Height | … |
-| Body shape | … |
-| Relationship status | … |
-
-**Additional information**
-| Field | Value |
-|---|---|
-| Pronouns | … |
-| <Nickname / Motto / Voice reference / custom…> | … |
-
-**Personality traits** (drag each slider to match)
-| Left – Right | Lean |
-|---|---|
-| Cautious – Impulsive | Strongly Cautious |
-
-## About — template 3
-### Physical description
-```text
-…
-```
-### Personality
-```text
-…
-```
-### History
-```text
-…
-{h3}Rumours{/h3}
-- "…"
-```
-
-## At first glance
-| # | Title | Text | Icon (search word) |
-|---|---|---|---|
-| 1 | … | … | feather |
-
-## Status
-**Currently** (<n>/140)
-```text
-…
-```
-**OOC** (<n>/140)
-```text
-…
-```
-
-## Roleplay style — your call
-Set these in Miscellaneous → Roleplay style: injury, death, romance, criminal activity, loss of control (Yes / No / With player permission), and IC or OOC guild membership.
-
-## For the player (don't paste)
-- **Hooks:** …
-- **Lore drawn on:** <zones, dungeons and bosses read; any with no file>
-- **Truth behind the rumours:** …
-- **Secrets:** …
-- **Where this character could grow:** …
-````
+Before sending, check the draft against the list at the end of this file. Then save it as `<character-name>/profile.md` (the Files section of `references/wizard.md`), present it in the format in `references/output-format.md`, and end with two or three **specific** revision offers, for example "a grimmer take on the history", "three alternative surnames", or "a template 1 version with headings and colour".
 
 ## Other kinds of request
 
-- **Polishing an existing profile:** keep the player's voice, names and core events. Check every place and boss it names against the step 3 files. Fix lore errors first, then god-moding, then leaked secrets, length and the tooltip limits, then prose. Give the revised profile in the same output format, followed by a bullet list of each substantive change and why (see `profile-craft.md` section 8).
 - **Part-jobs** (just names, just a Currently line, just a lore check): do only that part, with the same rules: lore check (the step 3 files for each place and boss the text names, plus `world.md` if it touches the continents or ancient history), 140-character limit with the count shown, three name options each with an in-game spelling, character counts and a note on its feel.
 - **Voice guides** (how the character talks, moves and reacts in play): read `references/voice-guide.md` and write to it, including a list of 10 sides you draft from the profile for the player to check. Base it on the character's profile; if there is none, write the profile first or ask for one.
 - **Retail or Classic Era characters:** the TRP3 layout still applies, but this skill's lore checks are for Forever's 25 ADP. Say so, and don't apply Forever's anachronism list to a retail character.

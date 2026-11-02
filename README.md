@@ -6,7 +6,9 @@ A [Claude Code](https://claude.com/claude-code) skill that writes **roleplay (RP
 
 ## What it does
 
-- Asks 3–5 quick questions when you give it very little, and drafts straight away when you've already described the character.
+- Walks you through a new character as a wizard: identity, a screenshot of the look, name, home, concept and flavour, with concept ideas drawn from the lore of the character's home. It then shows you one brief to confirm before drafting.
+- Turns a detailed first request straight into that brief. Say "just write it" at any point to skip to the draft.
+- Reworks an existing profile through the same flow, showing what's missing and changing only what you choose.
 - Produces a paste-ready TRP3 profile:
   - Characteristics, additional information and personality-trait sliders
   - About text (physical description, personality, history with a Rumours block)
@@ -21,7 +23,7 @@ A [Claude Code](https://claude.com/claude-code) skill that writes **roleplay (RP
 - Roots the backstory in the world: it reads the lore of each zone, dungeon and boss the character touches, builds on those details, and keeps bosses' secrets out of what the character could know.
 - Gives every character a valid Forever in-game name (first + last name; no apostrophes or hyphens) alongside the free-text TRP3 name.
 - Writes for other players: observable descriptions, no god-moding, secrets kept in a separate player-only section, and hooks to walk up to.
-- Also handles part-jobs: polishing an existing profile, suggesting names, writing a Currently line, or lore-checking a backstory.
+- Also handles part-jobs: suggesting names, writing a Currently line, or lore-checking a backstory.
 - Writes voice guides for playing the character, including a list of 10 sides it drafts for you to check.
 
 ## Install
@@ -43,8 +45,10 @@ Then type `/wow-forever-rp-profile`, or just ask, for example: *"Write a TRP3 pr
 ## Layout
 
 ```
-SKILL.md                     workflow and output format
+SKILL.md                     routing, drafting steps and self-check
 references/
+├── wizard.md                the stages for creating or reworking a character
+├── output-format.md         the profile layout and TRP3 paste order
 ├── forever-lore.md          25 ADP setting, race/class table, Skyborne lore, anachronisms, sources
 ├── trp3-fields.md           TRP3 tabs, fields, markup tags and limits (from the TRP3 source)
 ├── profile-craft.md         how to write a profile people want to interact with

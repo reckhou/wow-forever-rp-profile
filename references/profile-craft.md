@@ -75,7 +75,7 @@ Every Forever character has **two names**: the in-game name, which must pass Bli
 
 | Rule | Source |
 |---|---|
-| A **first and a last name**, both required. The full combination must be unique within the region; either part alone can be shared, so a family or guild can share a surname | Blizzard |
+| A **first and a last name**, both required. Forever has rulesets rather than retail-style realms, so the full combination must be unique within the region, across all rulesets; either part alone can be shared, so a family or guild can share a surname | Blizzard |
 | The last name can be hidden in the world (Options → Nameplates → "My Secondary Name"), but it still shows in chat | Blizzard |
 | The Code of Conduct applies, and both parts are judged together. "Certain names, words, spellings, and repeated-character patterns may be restricted" | Blizzard |
 | Early Name Reservation runs 27 October–3 November 2026 for eligible upgrade buyers, first come, first served | Blizzard |

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: detailed-request-brief-first
+expected_outcome: |
+  One message with a brief to confirm rather than a profile: it carries over what the player gave, marks what it proposes, asks for a screenshot or "add later", and draws on the Redridge Mountains lore.
