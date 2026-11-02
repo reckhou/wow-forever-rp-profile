@@ -33,7 +33,7 @@ Each stage takes one turn. Anything the request already answered is pre-filled a
 
 | # | Stage | Done when |
 |---|---|---|
-| 1 | **Identity:** faction, race, class | The pair is valid in `forever-lore.md` section 3, or the player accepted the closest fit. Forsaken paladins have been offered Bandarion Keep |
+| 1 | **Identity:** faction, race, class, level | The pair is valid in `forever-lore.md` section 3, or the player accepted the closest fit. Forsaken paladins have been offered Bandarion Keep. A new character's level is from 1 to 60, defaulting to 1 |
 | 2 | **Look:** screenshot | The image was read and its eye colour, hair and build noted, or the player chose "add later" |
 | 3 | **Name:** check theirs or offer three options | The in-game first and last names pass `profile-craft.md` section 6, with counts shown |
 | 4 | **Home:** a place | `references/lore/world.md` and that place's file are read, or the place is noted as having no file |

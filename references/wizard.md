@@ -23,7 +23,7 @@ Every stage accepts "invent it", and an invention is shown in the brief for appr
 
 | # | Stage | Done when |
 |---|---|---|
-| 1 | **Identity:** faction, race, class | The pair is valid in `forever-lore.md` section 3, or the player accepted the closest fit. A Forsaken paladin has been offered Bandarion Keep |
+| 1 | **Identity:** faction, race, class, level (see below) | The pair is valid in `forever-lore.md` section 3, or the player accepted the closest fit. A Forsaken paladin has been offered Bandarion Keep. A new character's level is a whole number from 1 to 60 |
 | 2 | **Look:** see below | The screenshot was read and its look noted, or the player chose "add later" |
 | 3 | **Name:** check theirs, or offer three options | The first and last in-game names pass `profile-craft.md` section 6, with counts shown |
 | 4 | **Home:** where they come from and live now | `lore/world.md` and each place's file are read, or the place is noted as having no file (`SKILL.md` step 3) |
@@ -32,6 +32,12 @@ Every stage accepts "invent it", and an invention is shown in the brief for appr
 | 7 | **Brief:** see below | The player confirmed it, and it is saved as `brief.md` |
 | 8 | **Draft:** `SKILL.md` steps 2–5, written from the brief | `profile.md` is saved, and every item on the self-check list holds |
 | 9 | **Finish:** see below | The player accepted or declined the voice guide, and each TRP3 tab was covered or skipped |
+
+### Stage 1: the level
+
+Ask a new character's level, offering 1 as the default because a newly created character is usually level 1, and let the player give any other. If the request doesn't say, it doesn't hold the stage open: put level 1 in the brief, marked *(proposed)*. Don't ask for an existing profile, whose brief shows a level only if the player or the profile gives one.
+
+The level is the character's in-game progress, not their life experience, so a level 1 can still be a veteran. It only limits what the profile says they are doing now: Currently and the hooks stay within what that level can reach in play. It goes in the brief and not in the TRP3 fields, because the game shows it.
 
 ### Stage 2: the look
 
@@ -45,7 +51,7 @@ With **"add later"**, leave out the physical description and eye colour, mark th
 
 ```markdown
 # <Full name>: brief
-*<Faction> · <Race> <Class> · In-game name: <First> (<n>) <Last> (<n>)*
+*<Faction> · <Race> <Class> · Level <n> · In-game name: <First> (<n>) <Last> (<n>)*
 
 - **Look:** <what the screenshot shows, or "pending">
 - **From / lives:** <places; note any with no lore file>

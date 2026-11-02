@@ -6,7 +6,7 @@ A [Claude Code](https://claude.com/claude-code) skill that writes **roleplay (RP
 
 ## What it does
 
-- Walks you through a new character as a wizard: identity, a screenshot of the look, name, home, concept and flavour, with concept ideas drawn from the lore of the character's home. It then shows you one brief to confirm before drafting.
+- Walks you through a new character as a wizard: identity and level, a screenshot of the look, name, home, concept and flavour, with concept ideas drawn from the lore of the character's home. It then shows you one brief to confirm before drafting.
 - Turns a detailed first request straight into that brief. Say "just write it" at any point to skip to the draft.
 - Reworks an existing profile through the same flow, showing what's missing and changing only what you choose.
 - Produces a paste-ready TRP3 profile:
