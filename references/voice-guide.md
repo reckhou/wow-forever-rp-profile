@@ -41,6 +41,7 @@ A list is finished when all of these hold:
 ## Keep the guide to what the character does
 
 - **Say when a trait comes out, and let it rest:** "money is his running joke, and a joke needs a rest". Leave out orders of frequency ("in every scene", "always"), because they make that trait the point of every reply.
+- **Write "mostly not" by default, not "never".** People have exceptions, and an AI follows "never" to the letter, so the character can't break the habit even when a scene calls for it. Write "rarely" or "seldom", and say what would make them do it: "he rarely swears by the loa, unless real fear gets the better of him". Keep "never" for hard limits, such as the lore, what the character can't know, or a limit the player set.
 - **Spread the examples.** Across the signature lines, openers and sample scenes, let no single trait fill most of them, because examples teach as strongly as rules.
 - **Leave out the character's level.** It only sets the starting point in the brief, and it goes out of date as the character plays.
 - **Keep advice for the human out of the guide.** Tips on playing the character, finding scenes or growing them over time go in a separate player notes file, because an AI reads them as things to act on in the scene.
