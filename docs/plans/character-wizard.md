@@ -81,4 +81,4 @@ Checked in RPMaster on 2 November 2026. It has no universal workflow:
 - **TRP3 profile:** not covered. No tracked RPMaster code outside `docs/` and `tests/` touches `TRP3_Profiles` or `totalRP3.lua`.
 - **Closest thing:** `RPProfiles-Private/docs/install-profile-and-voice-guide.md` with `tools/patch_trp3.py`. Its profile ID, sliders and slot titles are hard-coded for Baldrake v3, it updates only some fields, and its path uses `_retail_` rather than `_forever_`.
 
-Any universal workflow belongs in RPMaster, as a separate piece of work. Forever has rulesets rather than retail-style realms, and a full name is unique across them (owner, 2 November 2026). So that workflow should identify a character by first and last name rather than by realm, and must check which key TRP3 and the Bridge actually use on Forever, because both currently expect `<Name>-<Realm>`.
+Any universal workflow belongs in RPMaster, as a separate piece of work. Forever has rulesets rather than retail-style realms, and a full name is unique across them (owner, 2 November 2026). The plan for it is `docs/plans/rp-character-skill.md` in the RPMaster repository.
