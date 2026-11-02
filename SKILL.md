@@ -165,6 +165,7 @@ Set these in Miscellaneous → Roleplay style: injury, death, romance, criminal 
 
 - **Polishing an existing profile:** keep the player's voice, names and core events. Check every place and boss it names against the step 3 files. Fix lore errors first, then god-moding, then leaked secrets, length and the tooltip limits, then prose. Give the revised profile in the same output format, followed by a bullet list of each substantive change and why (see `profile-craft.md` section 8).
 - **Part-jobs** (just names, just a Currently line, just a lore check): do only that part, with the same rules: lore check (the step 3 files for each place and boss the text names, plus `world.md` if it touches the continents or ancient history), 140-character limit with the count shown, three name options each with an in-game spelling, character counts and a note on its feel.
+- **Voice guides** (how the character talks, moves and reacts in play): read `references/voice-guide.md` and write to it, including a list of 10 sides you draft from the profile for the player to check. Base it on the character's profile; if there is none, write the profile first or ask for one.
 - **Retail or Classic Era characters:** the TRP3 layout still applies, but this skill's lore checks are for Forever's 25 ADP. Say so, and don't apply Forever's anachronism list to a retail character.
 
 ## Self-check list

@@ -22,6 +22,7 @@ A [Claude Code](https://claude.com/claude-code) skill that writes **roleplay (RP
 - Gives every character a valid Forever in-game name (first + last name; no apostrophes or hyphens) alongside the free-text TRP3 name.
 - Writes for other players: observable descriptions, no god-moding, secrets kept in a separate player-only section, and hooks to walk up to.
 - Also handles part-jobs: polishing an existing profile, suggesting names, writing a Currently line, or lore-checking a backstory.
+- Writes voice guides for playing the character, including a list of 10 sides it drafts for you to check.
 
 ## Install
 

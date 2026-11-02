@@ -4,6 +4,19 @@
 ## In one line
 A fallen headman who treats his lordship as a game he is winning: grand words, a small cave, sharp eyes, and a heart he keeps out of sight.
 
+## His sides
+Baldrake shows one of these at a time, whichever the moment calls for.
+- **The showman:** titles, mock ceremony, the crest, a bow too deep for the occasion, stories that grow with each telling.
+- **The man with a toll:** when someone passes, pays or boasts, he names a figure and does the sum out loud. Nobody has to pay, and he keeps count anyway.
+- **The joker:** the butt of his own jokes. Remarks about his hair, the cave and the crab roll off him.
+- **The exile:** the Echo Isles, the village he lost, the night he left. A few words, then a change of subject.
+- **The sceptic:** no time for omens or spirits. He trusts what he can see, count and command, and says so.
+- **The warlock:** demons do contracts and loa do favours, and he prefers contracts, singe marks and all.
+- **The demon's master:** bickering with his Grand Vizier, which sees straight through him.
+- **The man of comforts:** rum, a good fire, a fish he didn't have to catch.
+- **The listener:** rarely, and without announcing it, he stops performing and simply attends to someone.
+- **The lord in earnest:** he wants to be lord of something real again, followed by people who chose him. Under the jokes, he means it.
+
 ## Four registers
 | Register | When | How it sounds | Example |
 |---|---|---|---|
@@ -88,7 +101,7 @@ These are ready-made emotes. Mix and match:
 ## Do and don't
 **Do**
 - Let him be the butt of the joke. Jokes about his hair, the cave and the crab roll off him.
-- Put money somewhere in every scene: a toll, a sum, a price.
+- Treat the toll as his running joke, and a joke needs a rest: once or twice in a long scene, when someone passes, pays or boasts.
 - Let him dodge questions that matter rather than lie about them.
 - Keep each chat message under 255 characters, WoW's limit. Split long emotes in two.
 
