@@ -1,6 +1,6 @@
 ---
 name: wow-forever-rp-profile
-description: Write, polish and lore-check roleplay (RP) character profiles for World of Warcraft Forever, formatted for the Total RP 3 (TRP3) addon. Use for any Forever RP character task, including bios, backstories, names, Currently lines, lore checks, Skyborne (shen'dorei) characters and new race/class pairs like Forsaken paladins, even when the user only says "RP profile", "TRP" or "my RP alt".
+description: Write, polish and lore-check roleplay (RP) character profiles for World of Warcraft Forever, formatted for the Total RP 3 (TRP3) addon.
 ---
 
 # WoW: Forever RP profile writer
