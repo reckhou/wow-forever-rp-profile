@@ -89,6 +89,7 @@ Before sending, check the draft against the list at the end of this file. Then s
 - [ ] Secrets are in the player notes, not the public text
 - [ ] At least three hooks; Rumours block present
 - [ ] Currently ≤ 140 and OOC ≤ 140 characters, counts shown
+- [ ] A new character's Currently shows them setting out, from the chosen idea, unless the player said otherwise
 - [ ] Consent settings left for the player
 - [ ] The character's level is not stated anywhere in the profile
 - [ ] Text reads cleanly with the tags stripped

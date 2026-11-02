@@ -62,6 +62,9 @@ Most weak profiles blur these, for example a description that tells the reader t
 - Good: "Selling charts of the Riverglades at the Gadgetzan inn; pays well for news of Powderfuse Port." (94)
 - Weak: "Brooding." (Nothing to grab.)
 
+For a **new character**, Currently shows them leaving home and starting their adventure, built from the idea the player chose (the brief's **Setting out** line): why they are going and where they head first. It still gives another player a way in, such as asking for directions or company on the road, and it stays within what their level can reach in play. Follow the player if they say the character is already on their way. An existing profile keeps its own line unless the player asks to change it.
+- Good: "Leaving Goldshire at first light with a borrowed sword; asking travellers for the safest road to Westfall." (106)
+
 **OOC** (140 characters or fewer): player-facing. Time zone or usual hours, walk-ups welcome or not, a contact if wanted, and one line of limits if needed.
 - Example: "EU evenings. Walk-ups welcome! Happy to plan stories — whisper me. Lore-friendly, low-violence preferred." (105)
 

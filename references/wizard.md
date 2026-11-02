@@ -63,7 +63,7 @@ With **"add later"**, leave out the physical description and eye colour, mark th
 
 ### Stage 3: broad ideas
 
-Offer three ideas, a few lines each: who they are, what they want, what they fear, where they come from and the tone. Each one keeps everything the player has said, fits the look, and is built on a specific from the lore you read. Then stop and wait: the player can pick one, mix them or ask for more. Until then, write no files and don't fill in the later stages.
+Offer three ideas, a few lines each: who they are, what they want, what they fear, where they come from, why they are leaving now and the tone. Each one keeps everything the player has said, fits the look, and is built on a specific from the lore you read. Then stop and wait: the player can pick one, mix them or ask for more. Until then, write no files and don't fill in the later stages.
 
 ### Stage 6: the brief
 
@@ -77,6 +77,7 @@ Offer three ideas, a few lines each: who they are, what they want, what they fea
 - **Wants:** …
 - **Fears:** …
 - **In the way:** …
+- **Setting out:** <new characters: why they are leaving and where they head first; the Currently line is built from this>
 - **Age / pronouns / tone:** …
 - **Misses / enjoys:** …
 - **Traits:** <sliders and their leans>
