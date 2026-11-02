@@ -13,7 +13,8 @@ Compiled 27 October 2026, a week before Forever's launch on 4 November 2026. For
 5. Anachronisms: what doesn't exist yet
 6. What Forever adds
 7. Skyborne (shen'dorei)
-8. Sources
+8. Companions: hunters' beasts and warlocks' demons
+9. Sources
 
 ---
 
@@ -185,8 +186,33 @@ Other groups: **Nightclaw Druids** (Shadowgale Forest, independent), **Peacekeep
 
 **Racial abilities** (flavour for descriptions): Walk on Air and Wind Blessed (both groups); Read Ley Line (High Order); Skysight (Windshapers; one source spells it "Skylight").
 
-## 8. Sources
+## 8. Companions: hunters' beasts and warlocks' demons
 
+Everything here comes from guides built on Forever's beta data, not from the live game, and it may change at launch on 4 November 2026. Tell the player when a detail depends on it. The levels set what a character can plausibly command; don't state them in a profile.
+
+**Warlocks** bind demons. The beta spell book has these, by the level they are trained:
+
+| Level | Demon |
+|---|---|
+| 1 | Imp |
+| 10 | Voidwalker |
+| 20 | Succubus or incubus |
+| 30 | Felhunter; also Subjugate Demon, Forever's name for Enslave Demon |
+| 50 | Infernal, through Inferno |
+| 60 | Doomguard, through Ritual of Doom |
+
+The felguard appears in none of these lists, so treat it as missing unless the player shows otherwise. A new warlock has only an imp, so a young character commanding an infernal is a small conflict.
+
+**Hunters** tame beasts, and only beasts. A hunter learns Tame Beast at level 10, through the class quest "Taming the Beast", so before that they have no pet of their own. The 18 families the guides agree on are bat, bear, bird of prey (the old owl), boar, carrion bird, cat, crab, crocolisk, fox, gorilla, hyena, raptor, scorpid, spider, tallstrider, turtle, wind serpent and wolf. Foxes are new, tamed from the Vuldren on Zephras Isle. A nineteenth family, the core hound, is listed in the client, but no guide confirms one can be tamed. A wild beast must be at or below the hunter's level, so a green hunter's pet comes from somewhere they could reach.
+
+**Names:** a companion profile attaches through the exact name the game shows for the pet, so ask the player for it. Whether and how a hunter can rename a pet on Forever isn't in the sources. A grander name or a title goes in the profile instead.
+
+## 9. Sources
+
+- WoW Forever Talent, warlock abilities (beta book, client 1.60.1.70630): https://wowforevertalent.com/abilities/warlock/
+- ForeverChanges, warlock and hunter pets (beta build 1.60.1.70707): https://foreverchanges.pro/class/warlock and https://foreverchanges.pro/hunter-pets
+- WoW Forever Tools, hunter pets (beta data): https://wowforevertools.com/hunter-pets
+- Zockify, hunter pets (client 1.60.1.70707): https://www.zockify.com/forever/hunter/pets/
 - Warcraft Wiki, "World of Warcraft: Forever": https://warcraft.wiki.gg/wiki/Forever
 - Warcraft Wiki, "Skyborne": https://warcraft.wiki.gg/wiki/Skyborne
 - Warcraft Wiki, "Timeline": https://warcraft.wiki.gg/wiki/Timeline

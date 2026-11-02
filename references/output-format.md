@@ -88,3 +88,39 @@ Set these in Miscellaneous → Roleplay style: injury, death, romance, criminal 
 - **Secrets:** …
 - **Where this character could grow:** …
 ````
+
+## Companion profile
+
+A hunter's pet or a warlock's minion gets its own file, in this layout. Leave out an optional row rather than writing "N/A", but always give the in-game pet name. The companion's voice goes in the Companion section of the owner's voice guide, not here.
+
+````markdown
+# <Name> — TRP3 companion profile
+*Companion of <owner> · <imp, wolf…>*
+
+> **Lore notes:** <only if something was changed or flagged>
+> **Assumed / invented:** <details you made up>
+
+## Names and titles
+| Field | Value |
+|---|---|
+| In-game pet name | <exactly as the game shows it> |
+| Name | … |
+| Title | … |
+| Icon (search word) | imp |
+
+## About
+```text
+…
+```
+
+## At first glance
+| # | Title | Text | Icon (search word) |
+|---|---|---|---|
+| 1 | … | … | feather |
+
+## For the player (don't paste)
+- **Binding:** summon it, target it, and use the button on the target frame.
+- **Hooks:** …
+- **Lore drawn on:** <zones, dungeons and bosses read; any with no file>
+- **Secrets:** …
+````

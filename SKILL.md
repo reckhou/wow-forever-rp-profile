@@ -75,6 +75,7 @@ Before sending, check the draft against the list at the end of this file. Then s
 
 - **Part-jobs** (just names, just a Currently line, just a lore check): do only that part, with the same rules: lore check (the step 3 files for each place and boss the text names, plus `world.md` if it touches the continents or ancient history), 140-character limit with the count shown, three name options each with an in-game spelling, character counts and a note on its feel.
 - **Voice guides** (how the character talks, moves and reacts in play): read `references/voice-guide.md` and write to it, including a list of 10 sides you draft from the profile for the player to check. Base it on the character's profile; if there is none, write the profile first or ask for one.
+- **Companions** (a profile for a hunter's pet or a warlock's minion, new or revised): read section 7 of `references/trp3-fields.md`, section 8 of `references/forever-lore.md`, and the owner's profile, asking for one if there is none. Ask only for what you can't tell: the pet's exact in-game name, what kind it is, and its part beside the owner. Run steps 2 and 3 on everything the companion's text names, then write to the "Companion profile" layout in `references/output-format.md`, saved as `<character-name>/companions/<pet-name>.md`. If the owner has a voice guide, put the companion's role and voice in its Companion section. When revising, change only what was asked, and check any new place or boss. A warlock's demons get one file each.
 - **Retail or Classic Era characters:** the TRP3 layout still applies, but this skill's lore checks are for Forever's 25 ADP. Say so, and don't apply Forever's anachronism list to a retail character.
 
 ## Self-check list
@@ -94,3 +95,10 @@ Before sending, check the draft against the list at the end of this file. Then s
 - [ ] The character's level is not stated anywhere in the profile
 - [ ] Text reads cleanly with the tags stripped
 - [ ] Assumptions and invented details are listed
+
+**For a companion, also:**
+
+- [ ] The in-game pet name is given exactly, and no name is invented for it unless the player chose one
+- [ ] A warlock's demon or a hunter's beast, of a kind `forever-lore.md` section 8 lists; a more advanced demon or a far-off beast fits the owner's story, or is flagged
+- [ ] It agrees with the owner's profile and doesn't speak for the owner or decide how readers react
+- [ ] The first sentence of About stands alone, because other tools may show only the start

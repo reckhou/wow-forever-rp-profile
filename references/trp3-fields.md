@@ -12,6 +12,7 @@ Taken from the TRP3 source code (github.com/Total-RP/Total-RP-3, `main` branch, 
 4. Status: Currently and OOC
 5. Markup tags
 6. Practical limits and gotchas
+7. Companions tab
 
 ---
 
@@ -117,3 +118,20 @@ The About tab renders TRP3's tags as HTML. Template 1 uses them most; templates 
 - **Length:** TRP3 sets no small limit on About text, and 3.5.x removed the export size limit. Readers skim, though. Aim for about 150–300 words for Physical description, 80–200 for Personality, and 200–500 for History.
 - **MSP interop:** players using MyRolePlay or XRP receive the names, titles, basic characteristics, Currently, OOC and the About text **with all tags stripped**. With template 3, Physical description and Personality are merged into their Description, and History goes to their History. Glances, trait sliders and images don't reach them, so the text must read cleanly with the tags removed. Never let colour alone carry meaning.
 - **Profile import strings:** TRP3 3.5.x can export and import a whole profile as an encoded text block. This skill doesn't generate those strings: they can't be checked outside the game, and a malformed one would fail to import. The player pastes each field instead.
+
+---
+
+## 7. Companions tab
+
+A hunter's pet or a warlock's minion can have its own profile, on TRP3's Companions page. It is far smaller than a character's: no characteristics, sliders, Currently or templates.
+
+| Part | Holds |
+|---|---|
+| Names and titles | Name, title, icon, name colour |
+| About | One text, with a background |
+| At first glance | Five slots, each with a title, text and icon |
+
+- **Binding:** a profile attaches through the exact name the game shows for the pet, not the name in the profile, so the profile can say "Lady Thistle" for a pet the game calls "Thistle". In game: summon the pet, target it, and use the button on the target frame. If the pet's name changes, bind it again.
+- **The account owns it:** companion profiles are shared across the player's characters, and one pet name can be bound to only one profile. Two characters whose pets have the same name share a profile.
+- **Who sees it:** other TRP3 users only. MyRolePlay and XRP users don't receive it.
+- **Other kinds:** TRP3 also gives mounts and vanity pets these profiles. A mount binds by its spell rather than a name.
