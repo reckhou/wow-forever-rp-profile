@@ -19,7 +19,7 @@ Craft guidance (what makes a profile good to interact with) is in `references/pr
 ### 1. Route the request
 
 - **A new character, or reworking an existing profile:** read `references/wizard.md` and follow it. It gathers the look, flavour and concept into a **brief** the player confirms, and it comes back to the steps below to draft. Consent settings (injury, death, romance and so on) stay out of it: the output lists them for the player to set.
-- **"Just write it"**, or anything else that says to skip the questions: start at step 2 with what the request gives. Invent the rest, including the look, and list it all under **Assumed / invented**.
+- **"Just write it"**, or anything else that says to skip the questions: start at step 2 with what the request gives. Invent the rest, including the look, and list it all under **Assumed / invented**. If the request says how much RP the player has done, follow the table under "The player's RP experience" in `references/wizard.md`.
 - **Anything else:** see [Other kinds of request](#other-kinds-of-request).
 
 ### 2. Check the concept against the lore

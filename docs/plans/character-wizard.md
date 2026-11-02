@@ -25,6 +25,7 @@ Status: built on 2 November 2026. One eval run, with Bash withheld and one run p
 - **"Just write it"** also waives the screenshot: the look is invented and listed under Assumed / invented, so the player still gets a complete profile.
 - **Test scenes** are not a separate offer. The voice guide already has a Sample scenes section.
 - **Calling skills:** a skill that calls this one can say what happens at stage 9, such as requiring the voice guide or doing the entry itself. The skill still knows nothing of RPMaster.
+- **Player's RP experience:** asked in the first message, as new to RP, some experience or experienced, and recorded in the brief. It changes the explanations, concept complexity, markup and stage 9, not the lore checks or limits. It sits outside the numbered stages so that references to stage 7 and stage 9 stay correct.
 - **Question format:** `AskUserQuestion` where available, numbered text elsewhere. Its four-option limit means faction comes before race, and class uses text or a narrowed list.
 
 ## Stages

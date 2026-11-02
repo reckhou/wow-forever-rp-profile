@@ -81,6 +81,7 @@ Use this structure. Short fields go in tables. Long paste-ready text goes in `te
 Set these in Miscellaneous → Roleplay style: injury, death, romance, criminal activity, loss of control (Yes / No / With player permission), and IC or OOC guild membership.
 
 ## For the player (don't paste)
+- **First scene:** <for a player new to RP: where to stand, one way to open and one reply to a stranger's greeting>
 - **Hooks:** …
 - **Lore drawn on:** <zones, dungeons and bosses read; any with no file>
 - **Truth behind the rumours:** …

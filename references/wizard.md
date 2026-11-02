@@ -1,6 +1,6 @@
 # Character wizard
 
-**Abbreviations:** TRP3 = Total RP 3; ADP = After the Dark Portal.
+**Abbreviations:** RP = roleplay; TRP3 = Total RP 3; ADP = After the Dark Portal; IC / OOC = in character / out of character.
 
 The wizard gathers what shapes a character before the first draft, so the player keeps what gets written. The **brief** is its product: one summary of every decision, which the player confirms and the draft is written from.
 
@@ -12,6 +12,21 @@ The wizard gathers what shapes a character before the first draft, so the player
 - **Otherwise:** start at the first open stage and take one stage per turn.
 
 Open with one line naming the stages ahead, and say that "just write it" skips to the draft at any point. When the player says it, go to `SKILL.md` step 2 with the answers so far, invent the rest including the look, and list it all under **Assumed / invented**.
+
+### The player's RP experience
+
+In that first message, ask how much RP the player has done, unless the request or conversation already says: new to RP, some experience or experienced. This is about the player, not the character, and it sets how you work for the rest of the session. A one-message brief asks it alongside the confirmation.
+
+Never hold up the work for it. With "just write it" or a specific request on an existing profile, don't ask: use what the request implies, otherwise some experience. If the player doesn't answer, use some experience and mark it *(proposed)* in the brief.
+
+| | New to RP | Some experience | Experienced |
+|---|---|---|---|
+| **Explaining** | Explain terms such as IC, OOC, hook, god-moding and sides in plain words at first use, and say what each stage is for | Explain only what is specific to Forever or TRP3 | Skip the explanations |
+| **Concept** | Seeds with one clear want and one fear, easy to play from the first scene | As the stages describe | Can offer more complex seeds: conflicting loyalties, an unreliable public story |
+| **Profile** | Plain template 3 with little markup. Add **First scene** to the player notes | As `SKILL.md` step 4 describes | Offer a designed template 1 or 2 page with heavier markup |
+| **Stage 9** | Recommend the voice guide. Walk through pasting in full, and explain what each Roleplay style setting means | As stage 9 describes | Offer the voice guide. Give the paste order in one message and ask if they want the walkthrough |
+
+Every level gets the same lore checks, in-game name rules, character limits, self-check list and revision offers, and the player still sets the consent options. Experience changes how much you explain and how complex the character is, not how well the profile is checked.
 
 ## Asking
 
@@ -63,6 +78,7 @@ With **"add later"**, leave out the physical description and eye colour, mark th
 - **Misses / enjoys:** …
 - **Traits:** <sliders and their leans>
 
+**Player's RP experience:** <new to RP, some experience or experienced>
 **Lore flags:** <each conflict, the fix and how to revert it>
 **Proposed or invented:** <everything the player did not say>
 ```
