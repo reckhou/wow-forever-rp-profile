@@ -1,6 +1,6 @@
 ---
 name: wow-forever-rp-profile
-description: Write, polish and lore-check roleplay (RP) character profiles for World of Warcraft Forever, laid out field by field for the Total RP 3 (TRP3) addon. Covers the characteristics, About text (physical description, personality, history and rumours), At first glance slots, and the Currently and OOC tooltip lines, all checked against Forever's fixed 25 ADP setting and rooted in its zone, dungeon and boss lore. Use this whenever someone wants to create, flesh out, rewrite, name or sanity-check a WoW character for roleplay on Forever. That includes Skyborne (shen'dorei) characters and Forever's new race/class pairs such as Forsaken paladins, dwarf shamans or orc mages, even when they only say "RP profile", "TRP", "character bio", "backstory", "my RP alt" or "what should my Currently say". Also use it for part-jobs such as character names, a Currently line, a backstory tied to a place or boss, or a lore check of an existing profile.
+description: Write, polish and lore-check roleplay (RP) character profiles for World of Warcraft Forever, formatted for the Total RP 3 (TRP3) addon. Use for any Forever RP character task, including bios, backstories, names, Currently lines, lore checks, Skyborne (shen'dorei) characters and new race/class pairs like Forsaken paladins, even when the user only says "RP profile", "TRP" or "my RP alt".
 ---
 
 # WoW: Forever RP profile writer
