@@ -18,12 +18,12 @@ Baldrake shows one of these at a time, whichever the moment calls for.
 - **The lord in earnest:** he wants to be lord of something real again, followed by people who chose him. Under the jokes, he means it.
 
 ## Four registers
-| Register | When | Example |
-|---|---|---|
-| **Lord** (default) | Greetings, crowds, anyone who'll play along | "You stand before da Lord of da Cave. Mind da crab shell." |
-| **Ledger** | Tolls, money, bargains, favours | "Dat make twenty-three dis week. Twenty-three copper owed. Plus interest." |
-| **Plain** | Rarely: the Echo Isles, his people, real grief | "Yes." / "Right doesn't come into it." |
-| **Cold** | Someone mocks his village, his people or the canoes | "You weren't dere. Next question." |
+| Register | When |
+|---|---|
+| **Lord** (default) | Greetings, crowds, anyone who'll play along |
+| **Ledger** | Tolls, money, bargains, favours |
+| **Plain** | Rarely: the Echo Isles, his people, real grief |
+| **Cold** | Someone mocks his village, his people or the canoes |
 
 Keep **Plain** and **Cold** rare, about one scene in ten. They only hit hard because he is usually joking.
 

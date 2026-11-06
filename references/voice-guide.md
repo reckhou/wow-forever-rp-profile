@@ -8,7 +8,7 @@ Write these, in this order, and leave out any that has nothing to say:
 
 1. **In one line:** who they are, in one sentence.
 2. **Sides:** see below. Every guide has this section.
-3. **Registers:** the few ways they speak, as a table of the register, when it applies and an example line. Leave out a column describing how each one sounds: the example shows it.
+3. **Registers:** the few ways they speak, as a table of the register and when it applies. Leave out how each one sounds and any example lines: whoever voices the character repeats an example rather than writing fresh.
 4. **Dialect:** how they spell and phrase things, kept light. Include a short table of plain English against their version.
 5. **Words:** see below. Every guide has this section.
 6. **Signature lines:** a few, marked for use once a scene at most.
@@ -63,6 +63,6 @@ A table is finished when all of these hold:
 
 - **Say when a trait comes out, and let it rest:** "money is his running joke, and a joke needs a rest". Leave out orders of frequency ("in every scene", "always"), because they make that trait the point of every reply.
 - **Write "mostly not" by default, not "never".** People have exceptions, and an AI follows "never" to the letter, so the character can't break the habit even when a scene calls for it. Write "rarely" or "seldom", and say what would make them do it: "he rarely swears by the loa, unless real fear gets the better of him". Keep "never" for hard limits, such as the lore, what the character can't know, or a limit the player set.
-- **Spread the examples.** Across the register examples, words, signature lines and openers, let no single trait fill most of them, because examples teach as strongly as rules.
+- **Spread the examples.** Across the words, signature lines and openers, let no single trait fill most of them, because examples teach as strongly as rules.
 - **Leave out the character's level.** It only sets the starting point in the brief, and it goes out of date as the character plays.
 - **Keep advice for the human out of the guide.** Tips on playing the character, finding scenes or growing them over time go in a separate player notes file, because an AI reads them as things to act on in the scene.
