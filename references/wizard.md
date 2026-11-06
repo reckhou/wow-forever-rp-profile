@@ -93,7 +93,7 @@ Mark each value the player did not give with *(proposed)* on its line, including
 
 Start only after the player has accepted the profile, even when a calling skill requires the voice guide, because the guide is built on the profile.
 
-1. Offer the voice guide, which includes sample scenes (`voice-guide.md`). If accepted, save it as `voice-guide.md`.
+1. Offer the voice guide (`voice-guide.md`). If accepted, save it as `voice-guide.md`.
 2. Walk through pasting, one tab per turn, in the paste order in `output-format.md`.
 
 When a calling skill has said what to do at this stage, follow that instead: it may require the voice guide, and it may do the entry itself.
